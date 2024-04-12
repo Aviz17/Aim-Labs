@@ -1,4 +1,4 @@
-![Azure AI Fundamentals_page-0001](https://github.com/Aviz17/Aim-Labs/assets/80086541/5c1d9e1e-ab3b-4097-b956-35cad6018d8d)# Aim-Labs
+# Aim-Labs
 
 A simple aim training game built using Python and Pygame.
 
